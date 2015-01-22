@@ -1,2 +1,2 @@
-# c_sharp_homeworks
-my homework for C sharp
+# домашние задания Андрусь Е.В. 
+#﻿ КА ШАГ гр. П32013.

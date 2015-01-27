@@ -28,7 +28,6 @@ namespace ConsoleApplication1
                     n = 0;
                 }
             }
-
             Console.WriteLine("Было число {0}, а стало {1}.", n1, x);
         }
     }

@@ -1,0 +1,6 @@
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework2\7\program\program\bin\Debug\program.exe.config
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework2\7\program\program\bin\Debug\program.exe
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework2\7\program\program\bin\Debug\program.pdb
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework2\7\program\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework2\7\program\program\obj\Debug\program.exe
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework2\7\program\program\obj\Debug\program.pdb

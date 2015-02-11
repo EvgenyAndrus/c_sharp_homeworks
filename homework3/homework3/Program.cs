@@ -25,5 +25,4 @@ namespace homework3
             Console.ReadLine();
         }
     }
-    
 }

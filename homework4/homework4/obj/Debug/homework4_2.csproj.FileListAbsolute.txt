@@ -1,0 +1,5 @@
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework4\homework4\bin\Debug\homework4.exe.config
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework4\homework4\bin\Debug\homework4.exe
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework4\homework4\bin\Debug\homework4.pdb
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework4\homework4\obj\Debug\homework4.exe
+C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework4\homework4\obj\Debug\homework4.pdb

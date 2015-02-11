@@ -45,7 +45,7 @@
     <Compile Include="diamond.cs" />
     <Compile Include="ellipse.cs" />
     <Compile Include="figure.cs" />
-    <Compile Include="Interface1.cs" />
+    <Compile Include="I_nGon.cs" />
     <Compile Include="Keystone.cs" />
     <Compile Include="parallelogram.cs" />
     <Compile Include="Program.cs" />

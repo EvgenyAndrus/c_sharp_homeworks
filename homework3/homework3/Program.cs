@@ -13,7 +13,7 @@ namespace homework3
             Console.WriteLine("Введите А и В через запятую или пробел");
             try
             {
-                StructType.Parse(Console.ReadLine());
+                Parse.parse(Console.ReadLine());
             }
             catch (FormatException exc)
             {
@@ -21,7 +21,7 @@ namespace homework3
                 Console.ReadLine();
                 return;
             }
-            Console.WriteLine("{0} * X + {1} * Y = 0", StructType.a, StructType.b);
+            Console.WriteLine("{0} * X + {1} * Y = 0", Parse.a, Parse.b);
             Console.ReadLine();
         }
     }

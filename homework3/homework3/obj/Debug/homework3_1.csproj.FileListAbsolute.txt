@@ -4,3 +4,6 @@ C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задан�
 C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework3\homework3\obj\Debug\homework3_1.csprojResolveAssemblyReference.cache
 C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework3\homework3\obj\Debug\homework3.exe
 C:\Users\eandr_000\OneDrive\академия ШАГ\домашнее задание C#.NET\homework3\homework3\obj\Debug\homework3.pdb
+D:\git\c_sharp_homeworks\homework3\homework3\bin\Debug\homework3.exe.config
+D:\git\c_sharp_homeworks\homework3\homework3\obj\Debug\homework3.exe
+D:\git\c_sharp_homeworks\homework3\homework3\obj\Debug\homework3.pdb

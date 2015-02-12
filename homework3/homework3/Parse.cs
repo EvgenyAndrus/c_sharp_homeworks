@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace homework3
 {
-    static class StructType
+    static class Parse
     {
         internal static int a { get; set; }
         internal static int b { get; set; }
-        internal static void Parse(string str)
+        internal static void parse(string str)
         {
             string[] split = str.Split(",".ToCharArray());
             if (split.Length != 2)

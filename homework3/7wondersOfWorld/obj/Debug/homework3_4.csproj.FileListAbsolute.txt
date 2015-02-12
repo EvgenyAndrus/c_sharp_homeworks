@@ -1,0 +1,5 @@
+D:\git\c_sharp_homeworks\homework3\7wondersOfWorld\obj\Debug\7wondersOfWorld.exe
+D:\git\c_sharp_homeworks\homework3\7wondersOfWorld\bin\Debug\7wondersOfWorld.exe.config
+D:\git\c_sharp_homeworks\homework3\7wondersOfWorld\bin\Debug\7wondersOfWorld.exe
+D:\git\c_sharp_homeworks\homework3\7wondersOfWorld\bin\Debug\7wondersOfWorld.pdb
+D:\git\c_sharp_homeworks\homework3\7wondersOfWorld\obj\Debug\7wondersOfWorld.pdb

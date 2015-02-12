@@ -1,0 +1,6 @@
+D:\git\c_sharp_homeworks\homework3\homework3_5\bin\Debug\homework3_5.exe.config
+D:\git\c_sharp_homeworks\homework3\homework3_5\bin\Debug\homework3_5.exe
+D:\git\c_sharp_homeworks\homework3\homework3_5\bin\Debug\homework3_5.pdb
+D:\git\c_sharp_homeworks\homework3\homework3_5\obj\Debug\homework3_5.csprojResolveAssemblyReference.cache
+D:\git\c_sharp_homeworks\homework3\homework3_5\obj\Debug\homework3_5.exe
+D:\git\c_sharp_homeworks\homework3\homework3_5\obj\Debug\homework3_5.pdb

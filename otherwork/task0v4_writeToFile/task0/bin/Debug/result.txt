@@ -1,0 +1,46 @@
+
+      Name   Count          Price      Day Of month    Total price                Discont
+
+  NoteBook       2    1000000 BYR          21          2000000 BYR	No discount
+  NoteBook       4    1000000 BYR          10          3400000 BYR	15%
+  NoteBook       1    1000000 BYR          17           850000 BYR	15%
+  NoteBook       3    1000000 BYR           1          3000000 BYR	No discount
+  NoteBook       1    1000000 BYR           2           550000 BYR	450000 BYR transport costs
+  NoteBook       1    1000000 BYR          12           950000 BYR	50000 BYR Bonus 
+  NoteBook       1    1000000 BYR          10          1000000 BYR	No discount
+  NoteBook       7    1000000 BYR          30          6950000 BYR	50000 BYR Bonus 
+  NoteBook       1    1000000 BYR          23           550000 BYR	450000 BYR transport costs
+  NoteBook       7    1000000 BYR          10          6550000 BYR	450000 BYR transport costs
+  NoteBook       5    1000000 BYR          17          4250000 BYR	15%
+
+There was 3 purchase(s) at 10th of this month
+
+After sorting by date:
+
+      Name   Count          Price      Day Of month    Total price                Discont
+
+  NoteBook       3    1000000 BYR           1          3000000 BYR	No discount
+  NoteBook       1    1000000 BYR           2           550000 BYR	450000 BYR transport costs
+  NoteBook       4    1000000 BYR          10          3400000 BYR	15%
+  NoteBook       1    1000000 BYR          10          1000000 BYR	No discount
+  NoteBook       7    1000000 BYR          10          6550000 BYR	450000 BYR transport costs
+  NoteBook       1    1000000 BYR          12           950000 BYR	50000 BYR Bonus 
+  NoteBook       1    1000000 BYR          17           850000 BYR	15%
+  NoteBook       5    1000000 BYR          17          4250000 BYR	15%
+  NoteBook       2    1000000 BYR          21          2000000 BYR	No discount
+  NoteBook       1    1000000 BYR          23           550000 BYR	450000 BYR transport costs
+  NoteBook       7    1000000 BYR          30          6950000 BYR	50000 BYR Bonus 
+
+After sorting by type discount:
+
+  NoteBook       3    1000000 BYR           1          3000000 BYR	No discount
+  NoteBook       1    1000000 BYR          10          1000000 BYR	No discount
+  NoteBook       2    1000000 BYR          21          2000000 BYR	No discount
+  NoteBook       4    1000000 BYR          10          3400000 BYR	15%
+  NoteBook       1    1000000 BYR          17           850000 BYR	15%
+  NoteBook       5    1000000 BYR          17          4250000 BYR	15%
+  NoteBook       1    1000000 BYR           2           550000 BYR	450000 BYR transport costs
+  NoteBook       7    1000000 BYR          10          6550000 BYR	450000 BYR transport costs
+  NoteBook       1    1000000 BYR          23           550000 BYR	450000 BYR transport costs
+  NoteBook       1    1000000 BYR          12           950000 BYR	50000 BYR Bonus 
+  NoteBook       7    1000000 BYR          30          6950000 BYR	50000 BYR Bonus 
